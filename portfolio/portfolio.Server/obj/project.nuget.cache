@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NH69AyX9n/E=",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\portfolio\\portfolio\\portfolio.Server\\portfolio.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\10.0.1\\microsoft.aspnetcore.spaproxy.10.0.1.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
