@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\GitHub\\portfolio\\portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|e:\\github\\portfolio\\portfolio\\portfolio.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|solutionrelative:portfolio.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|e:\\github\\portfolio\\portfolio\\portfolio.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|solutionrelative:portfolio.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|e:\\github\\portfolio\\portfolio\\portfolio.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|solutionrelative:portfolio.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|e:\\github\\portfolio\\portfolio\\portfolio.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}|portfolio.client\\portfolio.client.esproj|solutionrelative:portfolio.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "E:\\GitHub\\portfolio\\portfolio\\portfolio.client\\index.html",
               "RelativeDocumentMoniker": "portfolio.client\\index.html",
               "ToolTip": "E:\\GitHub\\portfolio\\portfolio\\portfolio.client\\index.html",
               "RelativeToolTip": "portfolio.client\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-05T02:50:08.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.css",
               "DocumentMoniker": "E:\\GitHub\\portfolio\\portfolio\\portfolio.client\\src\\App.css",
               "RelativeDocumentMoniker": "portfolio.client\\src\\App.css",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.tsx",
               "DocumentMoniker": "E:\\GitHub\\portfolio\\portfolio\\portfolio.client\\src\\App.tsx",
               "RelativeDocumentMoniker": "portfolio.client\\src\\App.tsx",
               "ToolTip": "E:\\GitHub\\portfolio\\portfolio\\portfolio.client\\src\\App.tsx",
               "RelativeToolTip": "portfolio.client\\src\\App.tsx",
-              "ViewState": "AgIAACYAAABAmpmZmdkgwDYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-01-01T21:33:06.527Z",
               "EditorCaption": ""
