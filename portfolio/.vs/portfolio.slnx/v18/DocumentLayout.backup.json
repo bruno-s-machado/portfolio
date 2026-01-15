@@ -34,7 +34,8 @@
               "RelativeToolTip": "portfolio.client\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-05T02:50:08.815Z"
+              "WhenOpened": "2026-01-05T02:50:08.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,7 +47,8 @@
               "RelativeToolTip": "portfolio.client\\src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-01T21:40:04.226Z"
+              "WhenOpened": "2026-01-01T21:40:04.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +58,7 @@
               "RelativeDocumentMoniker": "portfolio.client\\src\\App.tsx",
               "ToolTip": "E:\\GitHub\\portfolio\\portfolio\\portfolio.client\\src\\App.tsx",
               "RelativeToolTip": "portfolio.client\\src\\App.tsx",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-01-01T21:33:06.527Z",
               "EditorCaption": ""
